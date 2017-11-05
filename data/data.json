@@ -1,0 +1,53 @@
+[{
+	"LoanNumber": 100001,
+	"LoanPurpose": "Tailoring",
+	"Industry Type": "Services"
+}, {
+	"LoanNumber": 100002,
+	"LoanPurpose": "Petty Shops",
+	"Industry Type": "Services"
+}, {
+	"LoanNumber": 100003,
+	"LoanPurpose": "Cow",
+	"Industry Type": "Agricultural Inputs"
+}, {
+	"LoanNumber": 100004,
+	"LoanPurpose": "Cow",
+	"Industry Type": "Agricultural Inputs"
+}, {
+	"LoanNumber": 100005,
+	"LoanPurpose": "Tailoring",
+	"Industry Type": "Services"
+}, {
+	"LoanNumber": 100006,
+	"LoanPurpose": "Cow",
+	"Industry Type": "Agricultural Inputs"
+}, {
+	"LoanNumber": 100007,
+	"LoanPurpose": "Vegetable Vending",
+	"Industry Type": "Petty Trade"
+}, {
+	"LoanNumber": 100008,
+	"LoanPurpose": "Tailoring",
+	"Industry Type": "Services"
+}, {
+	"LoanNumber": 100009,
+	"LoanPurpose": "Petty Shops",
+	"Industry Type": "Services"
+}, {
+	"LoanNumber": 100010,
+	"LoanPurpose": "Grocery Store",
+	"Industry Type": "Services"
+}, {
+	"LoanNumber": 100011,
+	"LoanPurpose": "Tailoring",
+	"Industry Type": "Services"
+}, {
+	"LoanNumber": 100012,
+	"LoanPurpose": "Cow",
+	"Industry Type": "Agricultural Inputs"
+}, {
+	"LoanNumber": 100013,
+	"LoanPurpose": "Vegetable Vending",
+	"Industry Type": "Petty Trade"
+}]

@@ -48,7 +48,7 @@
   "scripts": {
     "start": "node index.js",
     "build": "npm-run-all build:js build:css",
-    "build:js": "NODE_ENV=development webpack --progress --color --watch",
+    "build:js": "NODE_ENV=development webpack --progress --color",
     "build:css": "node-sass public/index.scss public/index.build.css --importer node_modules/node-sass-import",
     "build:html": "vulcanize --inline-scripts --inline-css public/index.html > public/index.min.html",
     "postversion": "git push --tags origin HEAD",
